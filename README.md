@@ -11,12 +11,12 @@ askvjs is a videojs plugin that enables asking pop questions in a specific time 
 
 ## Skillsets
 
-*Skillsets like frontend, backend, full stack, ios, android, etc.*
+Frontend development.
 
 
 ## Tools and Technologies
 
-*Tools and technologies that you require/encourage to be used.*
+Javascript, html, and css should be used. Videojs library, which is cross platform and extensible html5 video player, should be the choice of player, and a videojs plugin should be developed.  
 
 
 ## Resources and Links
